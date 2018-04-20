@@ -7,6 +7,7 @@ if you want to request an idea for an upcoming update, you can send your ideas i
 i use a service called www.nofile.io to upload updates because i can afford a larger upload size from GitHub.
 i will start a kickstarter campaign soon for a new computer for a better, and more amazing computer than the terrible $400 dollar laptop i use now(it can barely run). so if you want to donate, go ahead.
 for more information about the game, check the wikia.
+for imformations on updates, check the changeog/projects.
 thank you for playing AdvvanceCraft. enjoy!
 
 -Ribbons0121R121
